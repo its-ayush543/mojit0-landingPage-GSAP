@@ -180,4 +180,5 @@ export {
  storeInfo,
  socials,
  sliderLists,
+
 };
